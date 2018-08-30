@@ -8,3 +8,5 @@ m = m+1
 print ("Soma total : ",x)
 Media = x/m
 print ("média : ",Media)
+
+print ("Deu certo")
